@@ -5,9 +5,7 @@ from config.auth import DiscordBot
 from config.auth import RedditBot
 import rbot
 
-description = '''An example bot to showcase the discord.ext.commands extension
-module.
-There are a number of utility commands being showcased here.'''
+description = '''Discord Reddit Submission bot'''
 bot = commands.Bot(command_prefix=DiscordBot.Prefix, description=description)
 
 @bot.event
