@@ -1,6 +1,6 @@
 import logging
 
-__author__ = "NotThatSiri"
+__author__ = "Luke"
 __version__ = "0.0.1"
 
 
